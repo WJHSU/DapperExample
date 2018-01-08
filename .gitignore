@@ -1,0 +1,13 @@
+*.suo
+*.user
+*.vspscc
+*.scc
+App_Data
+bin
+obj
+TestResults
+Logs
+*.cache
+.idea/
+.vs/
+packages/
